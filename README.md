@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Experienced Software Engineer with a decade of industry experience in developing and delivering high-quality software solutions. <br>Proficient in various programming languages and tools, with expertise in both front-end and back-end development.<br> Skilled in designing and implementing complex software systems and architectures, with a solid understanding of object-oriented programming and design patterns. Strong problem-solving abilities and a track record of delivering projects on time and within budget. <br>Collaborative team player with excellent communication and interpersonal skills.
+
+- 🔭 I am Software engeneer from VietNam 
+- 🌱 I am currrently learning about Golang and AWS
 
 
 # 💻 Tech Stack:
