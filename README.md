@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-- 🔭 I am Software engeneer (Ios & React Native Developer) from VietNam 
+- 🔭 I am Software engeneer from VietNam 
 - 🌱 I am currently strongly focus about Golang, Nodejs and AWS 
 
 
