@@ -32,4 +32,9 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=phoenixit99&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Contributions to Pactus Project
+I actively contribute to the [Pactus Project](https://github.com/pactus-project/pactus) by:
+- Committing code
+- Reviewing pull requests
+- Reporting and resolving issues
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
