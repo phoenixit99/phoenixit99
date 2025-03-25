@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 # About Me
-Hi, I'm [Henry](https://github.com/phoenixit99). I'm passionate about full-stack development with Mobile, Go and Node.js, and I enjoy deploying applications on AWS.
+Hi, I'm [Henry](https://github.com/phoenixit99). I'm passionate about full-stack development with Mobile, NextJs, Go and Node.js, and I enjoy deploying applications on AWS.
 
 
 ## Contributions
