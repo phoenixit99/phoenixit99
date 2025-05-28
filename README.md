@@ -26,7 +26,7 @@ Hi, I'm [Henry](https://github.com/phoenixit99). I'm passionate about full-stack
 I contribute to various open-source projects, focusing on improving backend infrastructure and scalability.
 
 ## Get in Touch
-Feel free to reach out for collaborations or discussions on mobile, fronten, backend development and cloud computing.
+Feel free to reach out for collaborations or discussions on mobile, frontend, backend development and cloud computing.
 
 
 # 💻 Tech Stack:
