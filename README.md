@@ -13,7 +13,7 @@ I build products end-to-end — mobile apps (iOS, Android, React Native, Flutter
 
 [![PSM II](https://img.shields.io/badge/Scrum.org-Professional_Scrum_Master_II-0C4C8A?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.credly.com/badges/a5c2d0c6-b545-4586-a5d6-88aa20c5e108)
 [![Hugging Face Agents Course](https://img.shields.io/badge/Hugging_Face-Agents_Course_(Excellence)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](./assets/hf-agents-course-certificate.png)
-[![AWS](https://img.shields.io/badge/AWS-Coursera_Specialization-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/A2ST96LYSTQ7)
+[![AWS](https://img.shields.io/badge/AWS-Fundamentals_(Coursera)-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/A2ST96LYSTQ7)
 
 ## 💻 Tech Stack
 
