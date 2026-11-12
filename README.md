@@ -4,7 +4,7 @@
 
 I build products end-to-end — mobile apps (iOS, Android, React Native, Flutter), web (Next.js, Node.js, Go) and cloud infrastructure on AWS. These days I focus on **bringing AI agents into the software development process and Scrum teams**: agent skills, spec-driven development, and AI-assisted delivery workflows.
 
-- 🔭 Currently working on: an AI-agent–driven development & Scrum process ([wata-ai-process](https://github.com/phoenixit99/wata-ai-process), [wata-demo](https://github.com/phoenixit99/wata-demo))
+- 🔭 Currently working on: an AI-agent–driven development & Scrum process
 - 🌱 Currently learning: multi-agent systems, context engineering, LLM evaluation
 - 💬 Ask me about: mobile & full-stack architecture, AWS, Scrum, AI coding agents
 - 🤝 Open to collaborations on mobile, backend, cloud and AI-agent projects
